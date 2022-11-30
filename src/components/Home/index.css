@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  width: 350px;
+  height: 300px;
+  margin-top: 120px;
+  text-align: center;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: #f8fafc;
+  height: 30px;
+  width: 80px;
+  border: 0;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #303150;
+}
