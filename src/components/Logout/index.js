@@ -2,10 +2,6 @@
 
 import './index.css'
 
-const Logout = () => (
-  <button type="button" className="button">
-    Logout
-  </button>
-)
+const Logout = () => 'Logout'
 
 export default Logout

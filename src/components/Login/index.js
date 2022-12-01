@@ -1,9 +1,5 @@
 import './index.css'
 
-const Login = () => (
-  <button className="button" type="button">
-    Login
-  </button>
-)
+const Login = () => `Login`
 
 export default Login
